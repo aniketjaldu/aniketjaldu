@@ -10,7 +10,7 @@
 
 -----
 
-<h3 align="center"> Langauges and Tools: </h3>
+<h3> Languages and Tools: </h3>
 
 **Languages:** Python · R · Java · C · C++ · SQL · JavaScript · HTML · CSS  
 **ML/DS:** PyTorch · TensorFlow · scikit-learn · YOLO · OpenCV · Pandas · NumPy · Matplotlib  
