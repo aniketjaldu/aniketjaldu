@@ -11,9 +11,4 @@
 -----
 
 <h3> Languages and Tools: </h3>
-
-**Languages:** Python · R · Java · C · C++ · SQL · JavaScript · HTML · CSS  
-**ML/DS:** PyTorch · TensorFlow · scikit-learn · YOLO · OpenCV · Pandas · NumPy · Matplotlib  
-**Frameworks:** Flask · FastAPI · React.js · Tailwind · Docker  
-**Databases:** MySQL · MongoDB · Oracle SQL  
-**Other Tools:** Git · Jupyter · VS Code · IntelliJ · ServiceNow  
+[![My Skills](https://skillicons.dev/icons?i=python,r,java,c,cs,sql,js,html,css,pytorch,tensorflow,sklearn,opencv,pandas,numpy,matplotlib,flask,fastapi,react,tailwind,docker,mysql,mongodb,git,jupyter,vscode,idea,unity)](https://skillicons.dev)  
